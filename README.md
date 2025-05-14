@@ -45,15 +45,14 @@ Happy Coding! 💻✨
     <p>Join one of the top youth football academies in Kenya!</p>
   </header>
 
-  <section>
-    <h2>Academy Training Modules</h2>
-    <ol type="I">
-      <li>Fitness & Conditioning</li>
-      <li>Ball Control & Passing</li>
-      <li>Positioning & Tactics</li>
-      <li>Match Simulations</li>
-      <li>Team Building & Leadership</li>
-    </ol>
+  <h3>Academy Training Modules</h3>
+<ol type="I">
+  <li>Fitness & Conditioning</li>
+  <li>Ball Control & Passing</li>
+  <li>Positioning & Tactics</li>
+  <li>Match Simulations</li>
+  <li>Team Building & Leadership</li>
+</ol>
   </section>
 
   <section>
